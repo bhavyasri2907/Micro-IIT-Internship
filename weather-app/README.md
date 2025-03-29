@@ -5,7 +5,7 @@ A modern and professional weather application that provides current weather cond
 ## Features
 
 - Current weather display with temperature, humidity, wind speed, and pressure
-- 5-day weather forecast
+- 7-day weather forecast
 - Beautiful and responsive design
 - Dark/Light mode toggle
 - Animated weather icons
@@ -24,5 +24,5 @@ A modern and professional weather application that provides current weather cond
 
 1. Enter a city name in the search box
 2. Press Enter or click the search button
-3. View the current weather and 5-day forecast
+3. View the current weather and 7-day forecast
 4. Toggle between dark and light mode using the theme button
